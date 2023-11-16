@@ -1,0 +1,77 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "marca": "GMC",
+        "nombre": "camaro",
+        "anio": "2012",
+        "precio": "250,000",
+        "km": "60,000 kms",
+        "motor": "v6",
+        "garantia": "garantia de 9 meses",
+        "thumbnail": "https://cdn.pixabay.com/photo/2016/02/19/15/56/transformers-1210585_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2016/02/19/15/56/transformers-1210585_960_720.jpg",
+        ]
+      },
+      {
+        "id": 2,
+        "marca": "VW",
+        "nombre": "beetle",
+        "anio": "2009",
+        "precio": "70,000",
+        "km": "290,000 kms",
+        "motor": "v5",
+        "garantia": "garantia de 3 meses",
+        "thumbnail": "https://cdn.pixabay.com/photo/2014/01/16/13/56/vw-246365_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2014/01/16/13/56/vw-246365_960_720.jpg",
+        ]
+      },
+      {
+        "id": 3,
+        "marca": "Jeep",
+        "nombre": "renegade",
+        "anio": "2019",
+        "precio": "399,999",
+        "km": "60,500 kms",
+        "motor": "v4",
+        "garantia": "garantia de 12 meses",
+        "thumbnail": "https://cdn.pixabay.com/photo/2020/03/06/12/35/jeep-4906965_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2020/03/06/12/35/jeep-4906965_960_720.jpg",
+        ]
+      },
+      {
+        "id": 4,
+        "marca": "VW",
+        "nombre": "sedan",
+        "anio": "1990",
+        "precio": "30,000",
+        "km": "499,000 kms",
+        "motor": "v4",
+        "garantia": "no aplica garantia",
+        "thumbnail": "https://cdn.pixabay.com/photo/2017/03/06/21/19/car-2122580_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2017/03/06/21/19/car-2122580_960_720.jpg",
+        ]
+      },
+      {
+        "id": 5,
+        "marca": "Ford",
+        "nombre": "fiesta",
+        "anio": "2015",
+        "precio": "70,000",
+        "km": "90,000 kms",
+        "motor": "v4",
+        "garantia": "garantia de 12 meses",
+        "thumbnail": "https://cdn.pixabay.com/photo/2018/08/01/16/58/ford-3577591_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2018/08/01/16/58/ford-3577591_960_720.jpg",
+        ]
+      }
+  ],
+    "total": 5,
+    "skip": 0,
+    "limit": 5
+  }
